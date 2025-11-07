@@ -1,3 +1,11 @@
+    📁Apuntes_Y_Ejercicio_Java
+    ┣ 📁 Apuentes de Java
+    ┃  ┗  NotaJava.md
+    ┣ 📁 Ejemplo y Ejercicio
+    ┃  ┣ 📁 Ejemplo - class
+    ┃  ┗ 📁  Ejercicios
+    ┗ README.md
+
 # Dia 2 Java 
 # 1. Operadores
 ## Operadores y estructuras de decisión
