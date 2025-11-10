@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        ejercicio1();
+        /*ejercicio1();
         ejercicio2();
         ejercicio3();
         ejercicio4_While();
@@ -14,10 +14,11 @@ public class Main {
         Par_o_Impar();
         Mayor_o_Menor();
         ParesDel1Al20();
-        cuentaRegresiva();
+        cuentaRegresiva();*/
+        MostrarMenu();
     }
 
-    public static void ejercicio1() {
+/*  public static void ejercicio1() {
         int edad = 15;
         if (edad >= 18) {
             System.out.println("Tienes " + edad + " Eres mayor de edad");
@@ -138,5 +139,29 @@ public class Main {
         }
 
         System.out.println("Se ha terminado el tiempo!!!! BOOMMMMM");
+    }*/
+
+    public static void MostrarMenu(){
+        System.out.println("======= Menu =======");
+        System.out.println(" 1. lista ");
+        System.out.println(" 2. ver ");
+        System.out.println(" 3.Salir ");
+        System.out.println("Selecione una opción");
+
+        Scanner input = new Scanner(System.in);
+        int opcion = input.nextInt();
+
+        if( opcion == 1 ){
+            System.out.println("Haz elegido la opción 1");
+        } else if ( opcion == 2){
+            System.out.println("Haz elegido la opción 2");
+        } else if ( opcion == 3){
+            System.out.println("Saliendo del menu");
+            return;
+        } else {
+            System.out.println("La opcion es incorrecta");
+        }
     }
+
+
 }
