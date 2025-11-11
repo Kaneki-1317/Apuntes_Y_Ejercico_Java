@@ -312,3 +312,14 @@
 
         El programa imprime los números del 1 al 10.
         Se salta el 4 gracias al continue y se detiene completamente cuando llega al 8 por el break.
+
+
+
+# POO Java
+
+    Los 4 pilares de la POO
+        1. Encapsulamiento
+            - Proteger los datos de una clase para que no se modifiquen directamente desde fuera.Se logra usando private y métodos get/set.
+        2. Herencia
+        3. Polimorfismo
+        4. Abstracción

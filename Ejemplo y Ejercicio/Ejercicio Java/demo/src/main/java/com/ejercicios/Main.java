@@ -141,7 +141,7 @@ public class Main {
         System.out.println("Se ha terminado el tiempo!!!! BOOMMMMM");
     }*/
 
-    public static void MostrarMenu(){
+   /* public static void MostrarMenu(){
         System.out.println("======= Menu =======");
         System.out.println(" 1. lista ");
         System.out.println(" 2. ver ");
@@ -161,7 +161,8 @@ public class Main {
         } else {
             System.out.println("La opcion es incorrecta");
         }
-    }
+    }*/
 
+    
 
 }
