@@ -15,7 +15,6 @@ public class Main {
         Mayor_o_Menor();
         ParesDel1Al20();
         cuentaRegresiva();*/
-        MostrarMenu();
     }
 
 /*  public static void ejercicio1() {

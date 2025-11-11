@@ -1,5 +1,5 @@
-package com.cristian;
-// CLASS
+package main.java.com.kanekipoo;
+
 public class POO {
     //Auto 
     // Atributos (propiedades)
@@ -17,8 +17,4 @@ public class POO {
         velocidad -= 10;
         System.out.println("El aunto frena. velocidad: " + velocidad);
     }
-
 }
-
-
-
